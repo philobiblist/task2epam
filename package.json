@@ -20,4 +20,5 @@
     "@vue/cli-plugin-eslint": "~4.3.0",
     "@vue/cli-service": "~4.3.0",
     "babel-eslint": "^10.1.0",
-    "es
+    "eslint": "^6.7.2",
+    "eslint-plugin
