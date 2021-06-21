@@ -30,4 +30,5 @@
       "node": true
     },
     "extends": [
-      "plugin:vue/esse
+      "plugin:vue/essential",
+      "eslint:recommen
