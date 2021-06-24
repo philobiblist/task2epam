@@ -31,4 +31,6 @@
     },
     "extends": [
       "plugin:vue/essential",
-      "eslint:recommen
+      "eslint:recommended"
+    ],
+    "parserOptions":
