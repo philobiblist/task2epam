@@ -38,4 +38,6 @@
     },
     "rules": {}
   },
-  "browsersl
+  "browserslist": [
+    "> 1%",
+    "last 2 ver
