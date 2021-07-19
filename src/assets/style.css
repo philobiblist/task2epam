@@ -15,4 +15,5 @@
     color:#0b3569;
 }
 
-.panel-info>
+.panel-info>.panel-heading {
+    col
