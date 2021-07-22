@@ -1,2 +1,3 @@
 <template>
-    <nav cl
+    <nav class="navbar navbar-inverse">
+     
