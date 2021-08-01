@@ -5,4 +5,4 @@
                 <router-link to="/" class="navbar-brand">Stock Trader</router-link>
             </div>
 
-         
+            <div class="collapse navbar-co
