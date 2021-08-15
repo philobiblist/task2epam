@@ -6,4 +6,5 @@
             </div>
 
             <div class="collapse navbar-collapse">
-                <ul class="nav navba
+                <ul class="nav navbar-nav">
+                    <rout
