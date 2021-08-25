@@ -8,4 +8,6 @@
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
                     <router-link to="/portfolio" activeClass="active" tag="li"><a>Portfolio</a></router-link>
-                    <router-link to="/stocks" activeClass="active" tag="li"><a>Stocks</a></router-l
+                    <router-link to="/stocks" activeClass="active" tag="li"><a>Stocks</a></router-link>
+                </ul>
+    
