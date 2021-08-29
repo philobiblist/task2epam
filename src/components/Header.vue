@@ -10,4 +10,4 @@
                     <router-link to="/portfolio" activeClass="active" tag="li"><a>Portfolio</a></router-link>
                     <router-link to="/stocks" activeClass="active" tag="li"><a>Stocks</a></router-link>
                 </ul>
-                <strong clas
+                <strong class="navbar-text navbar-righ
