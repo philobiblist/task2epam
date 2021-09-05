@@ -14,4 +14,5 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="javascript:void(0);" @click="endDay">End Day</a></li>
                     <li
-           
+                            class="dropdown"
+      
