@@ -12,4 +12,4 @@
                 </ul>
                 <strong class="navbar-text navbar-right">Funds: {{ funds | currency }}</strong>
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="javas
+                    <li><a href="javascript:void(0);" @click="endDay">End Day<
