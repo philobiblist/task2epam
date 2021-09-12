@@ -15,4 +15,5 @@
                     <li><a href="javascript:void(0);" @click="endDay">End Day</a></li>
                     <li
                             class="dropdown"
-                            :class="{open: i
+                            :class="{open: isDropdownOpen}"
+            
