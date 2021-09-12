@@ -16,4 +16,4 @@
                     <li
                             class="dropdown"
                             :class="{open: isDropdownOpen}"
-            
+                            @click="isD
