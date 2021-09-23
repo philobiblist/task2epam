@@ -16,4 +16,5 @@
                     <li
                             class="dropdown"
                             :class="{open: isDropdownOpen}"
-                            @click="isDropdownOpen = !isDropd
+                            @click="isDropdownOpen = !isDropdownOpen">
+                       
