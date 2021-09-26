@@ -19,4 +19,4 @@
                             @click="isDropdownOpen = !isDropdownOpen">
                         <a
                                 href="javascript:void(0);"
-                
+                                class="dropdown-togg
