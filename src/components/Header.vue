@@ -22,4 +22,5 @@
                                 class="dropdown-toggle"
                                 data-toggle="dropdown"
                                 role="button"
-                                aria-haspopup
+                                aria-haspopup="true"
+                  
