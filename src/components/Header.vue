@@ -25,4 +25,5 @@
                                 aria-haspopup="true"
                                 aria-expanded="false">Save & Load <span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="javascript:void(0);" @click="saveData">Sa
+                            <li><a href="javascript:void(0);" @click="saveData">Save Data</a></li>
+                         
