@@ -26,4 +26,5 @@
                                 aria-expanded="false">Save & Load <span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="javascript:void(0);" @click="saveData">Save Data</a></li>
-                            <li><a href="javascript:void(0);" @click="loadData">Load D
+                            <li><a href="javascript:void(0);" @click="loadData">Load Data</a></li>
+                     
