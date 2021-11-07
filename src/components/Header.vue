@@ -31,4 +31,6 @@
                     </li>
                 </ul>
             </div><!-- /.navbar-collapse -->
-        </div><!-- /.contai
+        </div><!-- /.container-fluid -->
+    </nav>
+</
