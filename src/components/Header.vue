@@ -30,4 +30,5 @@
                         </ul>
                     </li>
                 </ul>
-            </div><!-- /.navbar-coll
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.contai
