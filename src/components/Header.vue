@@ -30,4 +30,4 @@
                         </ul>
                     </li>
                 </ul>
-    
+            </div><!-- /.navbar-coll
