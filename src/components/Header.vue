@@ -36,4 +36,6 @@
 </template>
 
 <script>
-    imp
+    import {mapActions} from 'vuex';
+
+    export de
