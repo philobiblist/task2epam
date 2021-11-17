@@ -38,4 +38,6 @@
 <script>
     import {mapActions} from 'vuex';
 
-    export de
+    export default {
+        data() {
+      
