@@ -41,4 +41,7 @@
     export default {
         data() {
           return {
-              isDropd
+              isDropdownOpen: false
+          }
+        },
+        
