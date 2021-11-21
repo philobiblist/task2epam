@@ -44,4 +44,5 @@
               isDropdownOpen: false
           }
         },
-        
+        computed: {
+            funds(
