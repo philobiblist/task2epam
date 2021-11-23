@@ -46,4 +46,5 @@
         },
         computed: {
             funds() {
-                console.log('Funds 
+                console.log('Funds Recalculated');
+                return
