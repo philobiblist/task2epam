@@ -45,4 +45,5 @@
           }
         },
         computed: {
-            funds(
+            funds() {
+                console.log('Funds 
