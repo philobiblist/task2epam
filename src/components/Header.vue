@@ -48,4 +48,6 @@
             funds() {
                 console.log('Funds Recalculated');
                 return this.$store.getters.funds;
-   
+            }
+        },
+        methods
