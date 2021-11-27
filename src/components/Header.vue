@@ -47,4 +47,5 @@
         computed: {
             funds() {
                 console.log('Funds Recalculated');
-                return
+                return this.$store.getters.funds;
+   
