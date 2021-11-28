@@ -50,4 +50,6 @@
                 return this.$store.getters.funds;
             }
         },
-        methods
+        methods: {
+            ...mapActions({
+ 
