@@ -52,4 +52,5 @@
         },
         methods: {
             ...mapActions({
-                randomiz
+                randomizeStocks: 'randomizeStocks',
+     
