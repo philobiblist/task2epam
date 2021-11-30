@@ -52,4 +52,4 @@
         },
         methods: {
             ...mapActions({
- 
+                randomiz
