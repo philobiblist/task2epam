@@ -53,4 +53,5 @@
         methods: {
             ...mapActions({
                 randomizeStocks: 'randomizeStocks',
-     
+                fetchData: 'loadData'
+        
