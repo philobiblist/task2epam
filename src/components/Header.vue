@@ -54,4 +54,5 @@
             ...mapActions({
                 randomizeStocks: 'randomizeStocks',
                 fetchData: 'loadData'
-        
+            }),
+            endDay()
