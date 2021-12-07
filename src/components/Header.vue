@@ -56,4 +56,5 @@
                 fetchData: 'loadData'
             }),
             endDay() {
-                this.rando
+                this.randomizeStocks();
+           
