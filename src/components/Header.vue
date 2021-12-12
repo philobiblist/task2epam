@@ -58,4 +58,5 @@
             endDay() {
                 this.randomizeStocks();
             },
-            saveData() 
+            saveData() {
+                const dat
