@@ -57,4 +57,5 @@
             }),
             endDay() {
                 this.randomizeStocks();
-           
+            },
+            saveData() 
