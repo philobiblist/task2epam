@@ -60,4 +60,5 @@
             },
             saveData() {
                 const data = {
-                    fun
+                    funds: this.$store.getters.funds,
+     
