@@ -59,4 +59,5 @@
                 this.randomizeStocks();
             },
             saveData() {
-                const dat
+                const data = {
+                    fun
