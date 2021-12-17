@@ -61,4 +61,4 @@
             saveData() {
                 const data = {
                     funds: this.$store.getters.funds,
-     
+                    stockPortfolio: th
