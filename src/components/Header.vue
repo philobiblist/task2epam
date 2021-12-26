@@ -62,4 +62,4 @@
                 const data = {
                     funds: this.$store.getters.funds,
                     stockPortfolio: this.$store.getters.stockPortfolio,
-  
+                    stocks: this.$sto
