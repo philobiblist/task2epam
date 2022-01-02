@@ -64,4 +64,5 @@
                     stockPortfolio: this.$store.getters.stockPortfolio,
                     stocks: this.$store.getters.stocks
                 };
-                this.$http.put
+                this.$http.put('data.json', data);
+          
