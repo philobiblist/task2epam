@@ -68,4 +68,7 @@
             },
             loadData() {
                 this.fetchData();
-    
+            }
+        }
+    }
+</script>
