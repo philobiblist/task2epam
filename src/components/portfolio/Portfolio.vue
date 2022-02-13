@@ -5,4 +5,5 @@
 </template>
 
 <script>
-    import {mapG
+    import {mapGetters} from 'vuex';
+    import Stock f
