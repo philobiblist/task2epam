@@ -6,4 +6,6 @@
 
 <script>
     import {mapGetters} from 'vuex';
-    import Stock f
+    import Stock from './Stock.vue';
+
+    export default 
