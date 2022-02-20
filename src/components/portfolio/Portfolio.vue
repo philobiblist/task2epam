@@ -8,4 +8,6 @@
     import {mapGetters} from 'vuex';
     import Stock from './Stock.vue';
 
-    export default 
+    export default {
+        computed: {
+  
