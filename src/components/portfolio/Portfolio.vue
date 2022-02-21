@@ -10,4 +10,5 @@
 
     export default {
         computed: {
-            ...mapGetters(
+            ...mapGetters({
+                stocks: 'stockPor
