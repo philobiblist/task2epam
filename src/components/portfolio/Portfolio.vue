@@ -15,4 +15,6 @@
             })
         },
         components: {
-            appS
+            appStock: Stock
+        }
+    }
