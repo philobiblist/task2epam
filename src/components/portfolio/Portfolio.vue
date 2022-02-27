@@ -18,3 +18,4 @@
             appStock: Stock
         }
     }
+</script>
