@@ -14,4 +14,5 @@
                 stocks: 'stockPortfolio'
             })
         },
-    
+        components: {
+            appS
