@@ -1,3 +1,4 @@
 <template>
     <div>
-        <div
+        <div class="col-sm-6 col-md-4">
+            <di
