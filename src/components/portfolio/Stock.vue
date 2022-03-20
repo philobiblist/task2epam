@@ -8,4 +8,5 @@
                         <small>(Price: {{ stock.price }} | Quantity: {{ stock.quantity }})</small>
                     </h3>
                 </div>
-                <div cla
+                <div class="panel-body">
+           
