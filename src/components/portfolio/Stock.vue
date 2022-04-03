@@ -11,4 +11,5 @@
                 <div class="panel-body">
                     <div class="pull-left">
                         <input
-     
+                                type="number"
+   
