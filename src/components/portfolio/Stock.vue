@@ -12,4 +12,5 @@
                     <div class="pull-left">
                         <input
                                 type="number"
-                                cl
+                                class="form-control"
+                      
