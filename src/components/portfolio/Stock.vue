@@ -17,4 +17,5 @@
                                 v-model="quantity"
                                 :class="{danger: insufficientQuantity}"
                         >
-                    </
+                    </div>
+                    <div cla
