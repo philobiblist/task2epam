@@ -18,4 +18,5 @@
                                 :class="{danger: insufficientQuantity}"
                         >
                     </div>
-                    <div cla
+                    <div class="pull-right">
+      
