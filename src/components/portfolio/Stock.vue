@@ -22,4 +22,4 @@
                         <button
                                 class="btn btn-danger"
                                 @click="sellStock"
-                        >{{ insuffic
+                        >{{ insufficientQuantity ? 'Not enough'
