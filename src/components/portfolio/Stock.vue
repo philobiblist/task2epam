@@ -24,4 +24,5 @@
                                 @click="sellStock"
                         >{{ insufficientQuantity ? 'Not enough' : 'Sell' }}
                         </button>
-                   
+                    </div>
+                </div>
