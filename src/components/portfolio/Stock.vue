@@ -28,4 +28,4 @@
                 </div>
             </div>
         </div>
-        <div class="alert alert-
+        <div class="alert alert-info col-sm-12 col-md-12" role="
