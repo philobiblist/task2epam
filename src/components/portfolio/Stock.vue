@@ -36,4 +36,7 @@
 
 <style scoped>
     .danger {
-        border: 1px so
+        border: 1px solid red;
+    }
+
+    .alert-info {
