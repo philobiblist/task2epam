@@ -30,3 +30,8 @@
         </div>
         <div class="alert alert-info col-sm-12 col-md-12" role="alert" v-if="purchased.flag">
             You have sold {{this.purchased.order.quantity}} units @{{this.purchased.order.stockPrice}} price successfully!
+        </div>
+    </div>
+</template>
+
+<style 
