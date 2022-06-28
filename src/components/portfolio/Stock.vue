@@ -40,3 +40,4 @@
     }
 
     .alert-info {
+        background-colo
