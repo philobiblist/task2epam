@@ -40,4 +40,5 @@
     }
 
     .alert-info {
-        background-colo
+        background-color: green !important;
+        color: #fff;
