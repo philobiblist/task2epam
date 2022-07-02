@@ -43,4 +43,7 @@
         background-color: green !important;
         color: #fff;
         text-align: center;
-        
+        font-weight: bold;
+    }
+</style>
+
