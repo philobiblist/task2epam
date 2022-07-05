@@ -55,4 +55,5 @@
         data() {
             return {
                 quantity: 0,
-                purchased: 
+                purchased: {
+                    flag: fals
