@@ -51,4 +51,6 @@
     import {mapActions} from 'vuex';
 
     export default {
+        props: ['stock'],
+        data() {
         
