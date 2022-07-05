@@ -56,4 +56,6 @@
             return {
                 quantity: 0,
                 purchased: {
-                    flag: fals
+                    flag: false,
+                    order: null
+  
