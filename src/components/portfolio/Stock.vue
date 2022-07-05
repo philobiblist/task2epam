@@ -53,4 +53,5 @@
     export default {
         props: ['stock'],
         data() {
-        
+            return {
+                q
