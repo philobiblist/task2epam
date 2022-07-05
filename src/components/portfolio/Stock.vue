@@ -54,4 +54,5 @@
         props: ['stock'],
         data() {
             return {
-                q
+                quantity: 0,
+                purchased: 
