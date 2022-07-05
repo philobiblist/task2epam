@@ -48,4 +48,7 @@
 </style>
 
 <script>
-    import {mapActions} from 'v
+    import {mapActions} from 'vuex';
+
+    export default {
+        
