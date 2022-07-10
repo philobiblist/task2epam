@@ -62,4 +62,5 @@
             }
         },
         computed: {
-        
+          insufficientQuantity() {
+         
