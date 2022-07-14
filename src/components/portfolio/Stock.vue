@@ -63,4 +63,4 @@
         },
         computed: {
           insufficientQuantity() {
-         
+              return this.quantity > this.stock.quan
