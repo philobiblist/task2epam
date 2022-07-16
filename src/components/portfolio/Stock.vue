@@ -63,4 +63,7 @@
         },
         computed: {
           insufficientQuantity() {
-              return this.quantity > this.stock.quan
+              return this.quantity > this.stock.quantity;
+          }
+        },
+        m
