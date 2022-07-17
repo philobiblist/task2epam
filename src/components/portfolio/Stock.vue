@@ -66,4 +66,5 @@
               return this.quantity > this.stock.quantity;
           }
         },
-        m
+        methods: {
+            ...map
