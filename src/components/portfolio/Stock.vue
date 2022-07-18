@@ -68,4 +68,6 @@
         },
         methods: {
             ...mapActions({
-                placeSel
+                placeSellOrder: 'sellStock'
+            }),
+  
