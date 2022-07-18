@@ -73,4 +73,5 @@
             sellStock() {
                 const order = {
                     stockId: this.stock.id,
-                    stockPrice: t
+                    stockPrice: this.stock.price,
+                    
