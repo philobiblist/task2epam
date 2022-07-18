@@ -70,4 +70,4 @@
             ...mapActions({
                 placeSellOrder: 'sellStock'
             }),
-  
+            sellStock() {
