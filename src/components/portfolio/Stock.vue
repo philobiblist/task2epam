@@ -71,3 +71,5 @@
                 placeSellOrder: 'sellStock'
             }),
             sellStock() {
+                const order = {
+               
