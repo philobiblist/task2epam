@@ -67,4 +67,5 @@
           }
         },
         methods: {
-            ...map
+            ...mapActions({
+                placeSel
