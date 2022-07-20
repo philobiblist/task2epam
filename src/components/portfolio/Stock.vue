@@ -76,4 +76,5 @@
                     stockPrice: this.stock.price,
                     quantity: this.quantity
                 };
-                this
+                this.placeSellOrder(order);
+          
