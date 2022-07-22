@@ -77,4 +77,4 @@
                     quantity: this.quantity
                 };
                 this.placeSellOrder(order);
-          
+                this.purchased.flag = tr
