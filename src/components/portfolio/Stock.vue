@@ -78,4 +78,5 @@
                 };
                 this.placeSellOrder(order);
                 this.purchased.flag = true;
-                this.
+                this.purchased.order = {...order};
+  
