@@ -79,4 +79,5 @@
                 this.placeSellOrder(order);
                 this.purchased.flag = true;
                 this.purchased.order = {...order};
-  
+                setTimeout(() => {
+ 
