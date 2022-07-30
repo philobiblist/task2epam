@@ -80,4 +80,5 @@
                 this.purchased.flag = true;
                 this.purchased.order = {...order};
                 setTimeout(() => {
-                    this.purchas
+                    this.purchased.flag = false;
+                }, 30
