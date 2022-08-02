@@ -81,4 +81,5 @@
                 this.purchased.order = {...order};
                 setTimeout(() => {
                     this.purchased.flag = false;
-                }, 30
+                }, 3000);
+                this.quanti
