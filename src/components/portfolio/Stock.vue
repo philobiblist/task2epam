@@ -82,4 +82,7 @@
                 setTimeout(() => {
                     this.purchased.flag = false;
                 }, 3000);
-                this.quanti
+                this.quantity = 0;
+            }
+        }
+  
