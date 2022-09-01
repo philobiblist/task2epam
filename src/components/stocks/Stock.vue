@@ -7,4 +7,5 @@
                         {{ stock.name }}
                         <small>(Price: {{ stock.price }})</small>
                     </h3>
-            
+                </div>
+                <div clas
