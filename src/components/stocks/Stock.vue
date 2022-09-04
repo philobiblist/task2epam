@@ -14,4 +14,5 @@
                                 type="number"
                                 class="form-control"
                                 placeholder="Quantity"
-                                v-mod
+                                v-model="quantity"
+                
