@@ -16,4 +16,4 @@
                                 placeholder="Quantity"
                                 v-model="quantity"
                                 :class="{danger: insufficientFunds}"
-    
+                        
