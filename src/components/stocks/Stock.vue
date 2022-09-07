@@ -15,4 +15,5 @@
                                 class="form-control"
                                 placeholder="Quantity"
                                 v-model="quantity"
-                                :class="{dange
+                                :class="{danger: insufficientFunds}"
+    
