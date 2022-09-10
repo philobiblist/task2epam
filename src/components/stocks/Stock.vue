@@ -18,4 +18,5 @@
                                 :class="{danger: insufficientFunds}"
                         >
                     </div>
-                    <div class=
+                    <div class="pull-right">
+                        <bu
