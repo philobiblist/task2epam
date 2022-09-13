@@ -21,4 +21,5 @@
                     <div class="pull-right">
                         <button
                                 class="btn btn-success"
-                                @click="
+                                @click="buyStock"
+                  
