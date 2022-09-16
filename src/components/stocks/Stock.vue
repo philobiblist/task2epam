@@ -22,4 +22,5 @@
                         <button
                                 class="btn btn-success"
                                 @click="buyStock"
-                        >{{ insufficientFunds ? 'Insu
+                        >{{ insufficientFunds ? 'Insufficient Funds' : 'Buy' }}
+       
