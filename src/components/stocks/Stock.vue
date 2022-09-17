@@ -24,4 +24,5 @@
                                 @click="buyStock"
                         >{{ insufficientFunds ? 'Insufficient Funds' : 'Buy' }}
                         </button>
-       
+                    </div>
+                <
