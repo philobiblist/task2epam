@@ -25,4 +25,6 @@
                         >{{ insufficientFunds ? 'Insufficient Funds' : 'Buy' }}
                         </button>
                     </div>
-                <
+                </div>
+            </div>
+        </di
