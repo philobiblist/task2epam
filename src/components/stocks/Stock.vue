@@ -28,4 +28,5 @@
                 </div>
             </div>
         </div>
-        <div class="alert alert-info col-sm-12 col-md-12" role="
+        <div class="alert alert-info col-sm-12 col-md-12" role="alert" v-if="purchased.flag">
+           
