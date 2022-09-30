@@ -42,4 +42,5 @@
     .alert-info {
         background-color: green !important;
         color: #fff;
-        text-align
+        text-align: center;
+        font-weight
