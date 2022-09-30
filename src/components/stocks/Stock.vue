@@ -40,4 +40,4 @@
     }
 
     .alert-info {
-  
+        background-color: green
