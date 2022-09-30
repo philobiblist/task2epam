@@ -41,4 +41,5 @@
 
     .alert-info {
         background-color: green !important;
-        c
+        color: #fff;
+        text-align
