@@ -35,4 +35,5 @@
 </template>
 
 <style scoped>
-  
+    .danger {
+        border: 1px sol
