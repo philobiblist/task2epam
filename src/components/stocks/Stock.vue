@@ -43,4 +43,10 @@
         background-color: green !important;
         color: #fff;
         text-align: center;
-        font-weight
+        font-weight: bold;
+    }
+
+</style>
+
+<script>
+   
