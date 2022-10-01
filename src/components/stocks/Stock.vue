@@ -50,4 +50,6 @@
 
 <script>
     export default {
-        props:
+        props: ['stock'],
+        data() {
+          
