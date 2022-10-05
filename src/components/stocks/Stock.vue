@@ -55,4 +55,5 @@
             return {
                 quantity: 0,
                 purchased: {
-            
+                    flag: false,
+       
