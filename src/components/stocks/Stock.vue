@@ -54,3 +54,5 @@
         data() {
             return {
                 quantity: 0,
+                purchased: {
+            
