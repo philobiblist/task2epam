@@ -56,4 +56,5 @@
                 quantity: 0,
                 purchased: {
                     flag: false,
-       
+                    order: null
+   
