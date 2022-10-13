@@ -61,4 +61,5 @@
             }
         },
         computed: {
-         
+            funds() {
+                re
