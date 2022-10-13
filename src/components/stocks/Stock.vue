@@ -62,4 +62,5 @@
         },
         computed: {
             funds() {
-                re
+                return this.$store.getters.funds;
+  
