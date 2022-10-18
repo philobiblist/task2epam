@@ -65,4 +65,4 @@
                 return this.$store.getters.funds;
             },
             insufficientFunds() {
-          
+                return this.quantity * this
