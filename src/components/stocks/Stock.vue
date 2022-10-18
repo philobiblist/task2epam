@@ -64,4 +64,5 @@
             funds() {
                 return this.$store.getters.funds;
             },
-            ins
+            insufficientFunds() {
+          
