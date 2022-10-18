@@ -72,4 +72,5 @@
             buyStock() {
                 const order = {
                     stockId: this.stock.id,
-                    stockPrice: this.stock.pric
+                    stockPrice: this.stock.price,
+                    quantity:
