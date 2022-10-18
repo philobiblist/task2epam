@@ -70,4 +70,5 @@
         },
         methods: {
             buyStock() {
-          
+                const order = {
+                
