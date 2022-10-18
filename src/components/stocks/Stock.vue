@@ -65,4 +65,5 @@
                 return this.$store.getters.funds;
             },
             insufficientFunds() {
-                return this.quantity * this
+                return this.quantity * this.stock.price > this.funds;
+       
