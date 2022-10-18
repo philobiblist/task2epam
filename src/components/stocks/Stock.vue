@@ -66,4 +66,6 @@
             },
             insufficientFunds() {
                 return this.quantity * this.stock.price > this.funds;
-       
+            }
+        },
+        methods: 
