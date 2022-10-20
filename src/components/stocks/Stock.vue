@@ -75,3 +75,4 @@
                     stockPrice: this.stock.price,
                     quantity: this.quantity
                 };
+                this.$store.dispatch('
