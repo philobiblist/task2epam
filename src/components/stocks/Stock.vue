@@ -75,4 +75,5 @@
                     stockPrice: this.stock.price,
                     quantity: this.quantity
                 };
-                this.$store.dispatch('
+                this.$store.dispatch('buyStock', order).then(() => {
+           
