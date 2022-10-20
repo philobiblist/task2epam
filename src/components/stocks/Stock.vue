@@ -76,4 +76,5 @@
                     quantity: this.quantity
                 };
                 this.$store.dispatch('buyStock', order).then(() => {
-           
+                    this.purchased.flag = true;
+ 
