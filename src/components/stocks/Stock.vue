@@ -77,4 +77,5 @@
                 };
                 this.$store.dispatch('buyStock', order).then(() => {
                     this.purchased.flag = true;
-                    this.purchased
+                    this.purchased.order = {...order};
+               
