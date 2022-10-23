@@ -78,4 +78,4 @@
                 this.$store.dispatch('buyStock', order).then(() => {
                     this.purchased.flag = true;
                     this.purchased.order = {...order};
-               
+                    setTimeout(() => {
