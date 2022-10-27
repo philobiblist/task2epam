@@ -80,4 +80,6 @@
                     this.purchased.order = {...order};
                     setTimeout(() => {
                         this.purchased.flag = false;
-                    }, 3000
+                    }, 3000);
+                });
+      
