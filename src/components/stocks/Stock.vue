@@ -82,4 +82,4 @@
                         this.purchased.flag = false;
                     }, 3000);
                 });
-      
+                this.quantity
