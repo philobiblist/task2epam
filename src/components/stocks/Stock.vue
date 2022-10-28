@@ -85,4 +85,5 @@
                 this.quantity = 0;
             }
         }
-    
+    }
+</script>
