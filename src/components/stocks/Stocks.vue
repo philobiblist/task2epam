@@ -5,4 +5,6 @@
 </template>
 
 <script>
-    import Stock from '.
+    import Stock from './Stock.vue';
+
+    export default {
