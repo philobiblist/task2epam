@@ -4,4 +4,5 @@
     </div>
 </template>
 
-<scri
+<script>
+    import Stock from '.
