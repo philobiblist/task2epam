@@ -10,4 +10,6 @@
     export default {
         components: {
             appStock: Stock
-        }
+        },
+        computed: {
+            sto
