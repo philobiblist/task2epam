@@ -12,4 +12,5 @@
             appStock: Stock
         },
         computed: {
-            sto
+            stocks() {
+                return thi
