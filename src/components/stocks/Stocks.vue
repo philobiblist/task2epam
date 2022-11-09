@@ -9,4 +9,5 @@
 
     export default {
         components: {
- 
+            appStock: Stock
+        }
