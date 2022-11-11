@@ -1,2 +1,3 @@
 export default [
-    { id: 1, name: 'B
+    { id: 1, name: 'BMW', price: 110 },
+    { id: 2, name: 'G
