@@ -4,4 +4,6 @@ import VueResource from 'vue-resource';
 
 import App from './App.vue'
 import { routes } from './routes';
-impo
+import store from './store/store';
+
+Vu
