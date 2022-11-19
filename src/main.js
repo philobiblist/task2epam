@@ -6,4 +6,5 @@ import App from './App.vue'
 import { routes } from './routes';
 import store from './store/store';
 
-Vu
+Vue.use(VueRouter);
+Vue.use(VueResource
