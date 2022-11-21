@@ -11,4 +11,5 @@ Vue.use(VueResource);
 
 Vue.http.options.root = 'https://vuejs-stock-trader-21674.firebaseio.com/';
 
-Vue.filter('currency'
+Vue.filter('currency', (value) => {
+  return '$'
