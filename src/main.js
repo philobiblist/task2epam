@@ -9,4 +9,6 @@ import store from './store/store';
 Vue.use(VueRouter);
 Vue.use(VueResource);
 
-Vue.http.options.root = 'https://vuejs-stock-trader-21674.firebaseio.co
+Vue.http.options.root = 'https://vuejs-stock-trader-21674.firebaseio.com/';
+
+Vue.filter('currency'
