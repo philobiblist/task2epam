@@ -17,4 +17,8 @@ Vue.filter('currency', (value) => {
 
 const router = new VueRouter({
   mode: 'history',
-  r
+  routes
+});
+
+new Vue({
+  el: '#ap
