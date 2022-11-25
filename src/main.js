@@ -15,4 +15,6 @@ Vue.filter('currency', (value) => {
   return '$' + value.toLocaleString();
 });
 
-const rou
+const router = new VueRouter({
+  mode: 'history',
+  r
