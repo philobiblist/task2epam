@@ -1,1 +1,3 @@
-import Vue from
+import Vue from 'vue';
+
+export const loadData = ({
