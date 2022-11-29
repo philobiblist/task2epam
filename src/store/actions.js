@@ -1,3 +1,4 @@
 import Vue from 'vue';
 
-export const loadData = ({
+export const loadData = ({commit}) => {
+    Vue.htt
