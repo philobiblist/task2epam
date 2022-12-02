@@ -1,4 +1,5 @@
 import Vue from 'vue';
 
 export const loadData = ({commit}) => {
-    Vue.htt
+    Vue.http.get('data.json')
+        .then(re
