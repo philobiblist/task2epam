@@ -5,4 +5,5 @@ export const loadData = ({commit}) => {
         .then(response => response.json())
         .then(data => {
             if (data) {
-                c
+                const stocks = data.stocks;
+             
