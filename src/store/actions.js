@@ -6,4 +6,5 @@ export const loadData = ({commit}) => {
         .then(data => {
             if (data) {
                 const stocks = data.stocks;
-             
+                const funds = data.funds;
+       
