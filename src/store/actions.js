@@ -7,4 +7,4 @@ export const loadData = ({commit}) => {
             if (data) {
                 const stocks = data.stocks;
                 const funds = data.funds;
-       
+                const stockPortfolio = data
