@@ -10,4 +10,5 @@ export const loadData = ({commit}) => {
                 const stockPortfolio = data.stockPortfolio;
 
                 const portfolio = {
+                    stockPortfolio,
              
