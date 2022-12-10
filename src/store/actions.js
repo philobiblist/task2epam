@@ -9,4 +9,5 @@ export const loadData = ({commit}) => {
                 const funds = data.funds;
                 const stockPortfolio = data.stockPortfolio;
 
+                const portfolio = {
              
