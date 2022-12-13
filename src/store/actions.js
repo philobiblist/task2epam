@@ -14,4 +14,4 @@ export const loadData = ({commit}) => {
                     funds
                 };
 
-  
+                commit('SET_STOCKS'
