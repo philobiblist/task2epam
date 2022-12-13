@@ -11,4 +11,7 @@ export const loadData = ({commit}) => {
 
                 const portfolio = {
                     stockPortfolio,
-             
+                    funds
+                };
+
+  
