@@ -1,3 +1,7 @@
 const state = {
     funds: 10000,
-    stocks:
+    stocks: []
+};
+
+const mutations = {
+    'BUY_STOCK
