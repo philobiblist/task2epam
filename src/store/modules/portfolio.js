@@ -4,4 +4,4 @@ const state = {
 };
 
 const mutations = {
-    'BUY_STOCK
+    'BUY_STOCK'(state, {stockId, quantity, st
