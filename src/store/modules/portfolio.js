@@ -5,4 +5,6 @@ const state = {
 
 const mutations = {
     'BUY_STOCK'(state, {stockId, quantity, stockPrice}) {
-        const record = state.stocks.find(element => element.id == stockI
+        const record = state.stocks.find(element => element.id == stockId);
+        if (record) {
+            record.
