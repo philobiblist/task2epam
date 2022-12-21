@@ -5,4 +5,4 @@ const state = {
 
 const mutations = {
     'BUY_STOCK'(state, {stockId, quantity, stockPrice}) {
-        const re
+        const record = state.stocks.find(elemen
