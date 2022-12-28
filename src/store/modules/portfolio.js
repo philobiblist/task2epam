@@ -8,4 +8,6 @@ const mutations = {
         const record = state.stocks.find(element => element.id == stockId);
         if (record) {
             record.quantity += quantity;
-        }
+        } else {
+            state.stocks.push({
+ 
