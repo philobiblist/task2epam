@@ -12,4 +12,6 @@ const mutations = {
             state.stocks.push({
                 id: stockId,
                 quantity: quantity
-     
+            });
+        }
+        state
