@@ -14,4 +14,5 @@ const mutations = {
                 quantity: quantity
             });
         }
-        state
+        state.funds -= stockPrice * quantity;
+  
