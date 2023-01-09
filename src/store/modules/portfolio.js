@@ -17,4 +17,4 @@ const mutations = {
         state.funds -= stockPrice * quantity;
     },
     'SELL_STOCK' (state, {stockId, quantity, stockPrice}) {
-        con
+        const record = state.stocks.fin
