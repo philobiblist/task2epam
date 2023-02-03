@@ -31,4 +31,5 @@ const mutations = {
     }
 };
 
-const ac
+const actions = {
+    sellStock({commit
