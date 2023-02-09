@@ -38,4 +38,5 @@ const actions = {
 };
 
 const getters = {
-   
+    stockPortfolio (state, getters) {
+    
