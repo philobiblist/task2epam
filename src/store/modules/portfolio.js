@@ -42,4 +42,5 @@ const getters = {
         return state.stocks.map(stock => {
             const record = getters.stocks.find(element => element.id == stock.id);
             return {
-                id: stock.i
+                id: stock.id,
+                quantity
