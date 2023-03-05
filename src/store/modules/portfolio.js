@@ -46,4 +46,7 @@ const getters = {
                 quantity: stock.quantity,
                 name: record.name,
                 price: record.price
-          
+            }
+        });
+    },
+    funds (state
