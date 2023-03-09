@@ -54,3 +54,6 @@ const getters = {
     }
 };
 
+export default {
+    state,
+    mutat
