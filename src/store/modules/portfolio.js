@@ -49,4 +49,8 @@ const getters = {
             }
         });
     },
-    funds (state
+    funds (state) {
+      return state.funds;
+    }
+};
+
