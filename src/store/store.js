@@ -1,2 +1,4 @@
 import Vue from 'vue';
-impo
+import Vuex from 'vuex';
+
+import stoc
